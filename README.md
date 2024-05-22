@@ -5,4 +5,4 @@ El objetivo era desarrollar una red neuronal que se encargaria de clasificar bas
 el Tamaño, el Peso, el Sabor, la Blandura, el Tiempo de Recoleccion, la Dureza y la Acidez (Datos que ya en la base de datos vienen normalizados), 
 determinar si la calidad de la banana es Buena o Mala 
 
-Link del Datastes= https://www.kaggle.com/datasets/l3llff/banana
+Link del Datasets= https://www.kaggle.com/datasets/l3llff/banana
